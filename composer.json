@@ -1,0 +1,13 @@
+{
+    "name": "user/pusher_php_notifications",
+    "description": "Composer pack",
+    "authors": [
+        {
+            "name": "segun",
+            "email": "segunemmanuel46@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^6.1"
+    }
+}
